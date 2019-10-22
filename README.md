@@ -183,7 +183,7 @@ fetch(
 
 <li>
 
-Look at the data that is returned in the console, you can see there is a lot returned. We only want to use `response.data.images.original.url`. So let's store that in a variable right after the console.log.
+Look at the data that is returned in the console, you can see there is a lot returned. We only want to use `myJson.data.images.original.url`. So let's store that in a variable right after the console.log.
 
 ```js
 console.log(myJson);
