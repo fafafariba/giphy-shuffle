@@ -122,7 +122,7 @@ const [imageUrl, setImageUrl] = useState(
 
 ### Enhancing the < Button >
 
-<li> Create a function
+<li> Create a function, this function, when called, will send an alert to the web browser.
 
 ```js
 function handleClick() {
