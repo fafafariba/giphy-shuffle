@@ -120,9 +120,9 @@ const [imageUrl, setImageUrl] = useState(
 
 ---
 
-### Enhancing the < Button >
+### Enhancing the Button with Functions
 
-<li> Create a function, this function, when called, will send an alert to the web browser.
+<li> Create a function. This function, when called, will send an alert to the web browser.
 
 ```js
 function handleClick() {
@@ -161,7 +161,7 @@ Have your button call the `fetchImage` function now
 
 <li>
 
-Modify the `fetchImage` function to fetch an image
+Modify the `fetchImage` function to call the Giphy API which will return a bunch of data. We'll modify our console log to show us everything that the Giphy API returns.
 
 - [Giphy Developer Docs](https://developers.giphy.com/docs/)
 - [Javascript’s Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
