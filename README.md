@@ -62,7 +62,7 @@ Edit the `<p>` tag to also include your name.
 
 <li>
 
-Open `src/App.css` and see if you can change the background color and/or font color
+Open `src/App.css` and see if you can change the background color and/or font color. Here's a good resource on hex/color codes: https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/
 
 <li>Create a variable and store your name in it
 
