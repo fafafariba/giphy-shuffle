@@ -247,3 +247,6 @@ fetch(
   ```
 
 - Add a text input to populate the search string
+
+## Q & A 
+- Submit your questions [here] (https://forms.gle/QfPW1Fe3QCvggg7a7)
