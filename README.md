@@ -157,6 +157,8 @@ Have your button call the `fetchImage` function now
 
 ---
 
+### Call the Giphy API
+
 <li>
 
 Modify the `fetchImage` function to fetch an image
